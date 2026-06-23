@@ -14,11 +14,11 @@
 ## About Me
 
 ```typescript
-const willie = {
+const Willie = {
   role: "Developer Tools Engineer",
-  focus: ["Open Source", "CLI Tooling", "Developer Experience"],
-  currentlyBuilding: ["AgentforceDX", "Salesforce CLI", "IDE Extensions"],
-  philosophy: "Vibes 2.0 — great DX should feel effortless",
+  focus: ["CLI Tooling", "Open Source", "SFDX"],
+  currentlyBuilding: ["AgentforceDX", "Salesforce CLI", "Salesforce IDE Extensions"],
+  interests: [🚵, 🏄🏻‍♂️,🏂]
 };
 ```
 
